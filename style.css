@@ -1,0 +1,55 @@
+body{
+  background-image:url('https://backgroundcheckall.com/wp-content/uploads/2017/12/brown-wood-background-4.jpg');
+}
+#main{
+  width:80%;
+  background-color:RGB(245, 236, 193);
+  margin: auto;
+  padding: 1px;
+  box-shadow: -5px 4px 5px 0px rgba(0,0,0,0.75);
+}
+h1{
+  font-family: Sans-Serif;
+  font-size:30pt;
+  color:red;
+}
+#title{
+  
+}
+article{
+  margin:2%;
+}
+#tribute-info{
+  column-count:3;
+}
+
+#img-div{
+  margin:auto;
+  background-color:white;
+  padding: 3px;
+}
+#image{
+  height:auto;
+  width:100%;
+  float:left;
+  max-width:100%;
+}
+#img-caption{
+  font-family:"Crimson Text";
+  font-style:italic;
+  font-size:12pt;
+}
+
+#tribute-link{
+  
+}
+
+footer{
+  margin-top:2px;
+  background-color:red;
+  height:4rem;
+  padding:5px;
+  text-align:center;
+  font-family:arial;
+  color:white;
+}
